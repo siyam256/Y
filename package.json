@@ -1,0 +1,21 @@
+{
+  "name": "buet-latitude-weight-loss",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx Main out/video.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.528",
+    "@remotion/google-fonts": "4.0.528",
+    "@remotion/media": "4.0.528",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.528"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "typescript": "^5.9.0"
+  }
+}
